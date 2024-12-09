@@ -1,0 +1,6 @@
+ds3231.c:23:6:ds3231_init	8	static
+ds3231.c:33:6:ds3231_Write	40	static
+ds3231.c:38:6:ds3231_ReadTime	24	static
+ds3231.c:50:6:sevenSegment_DisplayTime	16	static
+ds3231.c:59:6:init_seven_segment_clock	8	static
+ds3231.c:64:6:update_seven_segment_clock	8	static
